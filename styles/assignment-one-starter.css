@@ -1,12 +1,12 @@
 .card {
   background-color: #fff;
   border-radius: 0.25rem;
-  box-shadow: 0rem 0.125rem 1.5rem rgb(0 0 0 / 12%);
+  box-shadow: 0rem 0.125rem 1.5rem rgba(255, 0, 200, 0.12);
   width: 24rem;
 }
 
 img {
-  border-bottom: 0.25rem solid #fc0;
+  border-bottom: 0.25rem solid rgb(255, 0, 128);
   border-radius: 0.25rem 0.25rem 0 0;
   height: auto;
   width: 100%;
